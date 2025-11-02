@@ -226,10 +226,10 @@ import mydatabase.MySQLConnect;
 			/*      */           
 			/*      */           public void actionPerformed(ActionEvent e)
 			/*      */           {
-				/*  251 */             if (HomeMainGui.databaseStatus.booleanValue()) {
+				/*  251 */             if (HomeMainGui.databaseStatus) {
 					/*  252 */               HomeMainGui.this.getMonthlyExpensesFromDatabase(Boolean.valueOf(true));
 				/*      */             } else {
-					/*  254 */               HomeMainGui.this.getMonthlyExpensesFromFile(Boolean.valueOf(true));
+					/*  254 */               HomeMainGui.this.getMonthlyExpensesFromFile(Boolean.valueOf(false));
 				/*      */             } 
 			/*      */           }
 		/*      */         });
@@ -239,7 +239,7 @@ import mydatabase.MySQLConnect;
 			/*      */           
 			/*      */           public void actionPerformed(ActionEvent e)
 			/*      */           {
-				/*  264 */             if (HomeMainGui.databaseStatus.booleanValue()) {
+				/*  264 */             if (HomeMainGui.databaseStatus) {
 					/*  265 */               HomeMainGui.this.downloadFromServerToFile();
 				/*      */             }
 			/*      */           }
@@ -348,8 +348,6 @@ import mydatabase.MySQLConnect;
 		/*  380 */     this.frame.setVisible(true);
 		/*  381 */     this.frame.setResizable(false);
 		/*      */     displayMarlinExpensesBarChart();
-		/*  383 */     //getMonthlyExpensesFromDatabase(getDatabaseStatus());
-		/*  384 */     displayMarlinExpensesBarChart();
 	/*      */   }
 	/*      */ 
 	/*      */   
