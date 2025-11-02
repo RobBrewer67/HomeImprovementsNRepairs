@@ -56,31 +56,79 @@ public class MySQLConnect {
 		this.jdbcUrl = jdbcUrl;
 		this.userid = userid;
 		this.password = password;
+		System.out.println(jdbcUrl);
+		System.out.println(userid);
+		System.out.println(password);
 
 	}
 
-	public Boolean isConnected()  {
+	
+	public Boolean isConnected() {
+		
+		    // Database credentials
+		    final String URL = "jdbc:mysql://localhost:3306/home_improvement.houseexpenses";
+		   final String USER = "rbrewer";
+		   final String PASSWORD = "Great2BeAliveN2022#";
+
+		        Connection connection = null;
+
+		        try {
+		            // Load MySQL JDBC driver (optional for newer Java versions)
+		            Class.forName("com.mysql.cj.jdbc.Driver");
+
+		            // Establish connection
+		            connection = DriverManager.getConnection(URL, USER, PASSWORD);
+		            System.out.println("✅ Connection successful!");
+		            return true;
+
+		        } catch (ClassNotFoundException e) {
+		            System.out.println("❌ MySQL JDBC Driver not found!");
+		            e.printStackTrace();
+
+		        } catch (SQLException e) {
+		            System.out.println("❌ Database connection failed!");
+		            e.printStackTrace();
+
+		        } finally {
+		            // Close connection
+		            if (connection != null) {
+		                try {
+		                    connection.close();
+		                    System.out.println("🔒 Connection closed.");
+		                } catch (SQLException e) {
+		                    e.printStackTrace();
+		                }
+		            }
+		        }
+		        return false;
+		
+	}
+	
+	
+	public Boolean isConnectedA()  {
+
+		String url = "jdbc:mysql://localhost:3306/home_improvement.houseexpenses";
+        String userid = "rbrewer";
+        String password = "Great2BeAliveN2022#";
 
 		//Open a connection
 		Connection conn = null;
 		//System.out.println("Connecting to a selected database...");
 		try {
-			//conn = DriverManager.getConnection(jdbcUrl, userid, password);
-			conn = DriverManager.getConnection("//localhost/home_improvement.houseexpenses","rbrewer" , "Great2BeAliveN2022#");
+			conn = DriverManager.getConnection(jdbcUrl, userid, password);
+			//conn = DriverManager.getConnection(url,userid, password);
 			conn.close();
 			return true;
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			//e.printStackTrace();
-			JOptionPane.showMessageDialog(null, CLASSNAME + ": Unable to connect to database. Try Again, "); 
+			JOptionPane.showMessageDialog(null, CLASSNAME + " 1: Unable to connect to database. Try Again, "); 
 			//JOptionPane.showMessageDialog(null, "ERROR: Unable to connect to database. Try Again");
-		} /*
-			 * finally { try { conn.close(); } catch (SQLException e) { // TODO
-			 * Auto-generated catch block //e.printStackTrace();
-			 * JOptionPane.showMessageDialog(null,
-			 * "ERROR: Unable to close connection to database. Try Again"); } }
-			 */
+		} 
+			
+
 		return false;
+
 	} 
 
 

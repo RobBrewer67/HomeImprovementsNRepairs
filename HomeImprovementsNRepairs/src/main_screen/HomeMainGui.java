@@ -42,37 +42,10 @@ import org.jfree.data.json.impl.JSONArray;
 import org.jfree.data.json.impl.JSONObject;
 import org.json.simple.parser.JSONParser;
 
-/*      */ import mydatabase.MySQLConnect;
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
-/*      */ 
+import mydatabase.MySQLConnect;
+
 /*      */ public class HomeMainGui
-/*      */ {
+{
 	/*      */   private static final long serialVersionUID = -8044048618173986424L;
 	/*   74 */   private final String CLASSNAME = "HomeMainGui";
 	/*      */   private static String username;
@@ -111,9 +84,9 @@ import org.json.simple.parser.JSONParser;
 	/*      */   
 	/*      */   public HomeMainGui(String username, char[] password) {
 		/*  109 */     HomeMainGui.username = username;
-		/*  110 */     signonCredentCorrect();
+		/*  110 */     isSQLSignonCredentCorrect();
 		/*  111 */     initialize();
-		/*  112 */     if (databaseStatus.booleanValue()) {
+		/*  112 */     if (databaseStatus) {
 			/*  113 */       this.lblDatabaseStatus.setText("Database Connected");
 			/*  114 */       this.lblDatabaseStatus.setForeground(Color.green);
 		/*      */     } else {
@@ -355,7 +328,7 @@ import org.json.simple.parser.JSONParser;
 			/*      */           public void actionPerformed(ActionEvent e)
 			/*      */           {
 				/*  363 */             HomeMainGui.this.mySQLDatabase = null;
-				/*  364 */             HomeMainGui.this.signonCredentCorrect();
+				/*  364 */             HomeMainGui.this.isSQLSignonCredentCorrect();
 				/*  365 */             if (HomeMainGui.databaseStatus.booleanValue()) {
 					/*  366 */               HomeMainGui.this.lblDatabaseStatus.setText("Database Connected");
 					/*  367 */               HomeMainGui.this.lblDatabaseStatus.setForeground(Color.green);
@@ -374,7 +347,7 @@ import org.json.simple.parser.JSONParser;
 		/*  380 */     this.frame.setVisible(true);
 		/*  381 */     this.frame.setResizable(false);
 		/*      */     
-		/*  383 */     getMonthlyExpensesFromDatabase(Boolean.valueOf(false));
+		/*  383 */     getMonthlyExpensesFromDatabase(getDatabaseStatus());
 		/*  384 */     displayMarlinExpensesBarChart();
 	/*      */   }
 	/*      */ 
@@ -858,38 +831,21 @@ import org.json.simple.parser.JSONParser;
 	/*      */ 
 	/*      */ 
 	/*      */   
-	/*      */   private void signonCredentCorrect() {
+	/*      */   private void isSQLSignonCredentCorrect() {
 		/*  864 */     String credentialsFilename = "mysqlsignonstuff.txt";
 		/*  865 */     String DELIMITER = "%";
-		/*  866 */     String[] myDatastuff = getCredentialsFromFile("mysqlsignonstuff.txt").split("%");
-		for(int i =0; i < 3; i++){
-
-			System.out.println(myDatastuff[i]);
-		}
-		/*      */ 
-		/*      */     
+		/*  866 */     String[] myDatastuff = getCredentialsFromFile(credentialsFilename).split(DELIMITER);
+		
 		/*  869 */     this.mySQLDatabase = new MySQLConnect(myDatastuff[0], myDatastuff[1], myDatastuff[2]);
-		/*  870 */     if (this.mySQLDatabase.isConnected().booleanValue()) {
+		/*  870 */     if (this.mySQLDatabase.isConnected()) {
 			/*      */       
-			/*  872 */       databaseStatus = Boolean.valueOf(true);
+			/*  872 */       databaseStatus = true;
 		/*      */     } else {
 			/*      */       
-			/*  875 */       databaseStatus = Boolean.valueOf(false);
+			/*  875 */       databaseStatus = false;
 		/*      */     } 
 	/*      */   }
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */ 
-	/*      */   
+
 	/*      */   private String getCredentialsFromFile(String inputFile) {
 		/*  892 */     int myMagicNumber = 36;
 		/*  893 */     String allData = null;
@@ -903,12 +859,11 @@ import org.json.simple.parser.JSONParser;
 				/*  901 */         while ((data = bufferedReader.readLine()) != null) {
 					/*  902 */           if (count == 36) {
 						/*  903 */             allData = data;
+											return allData;
 					/*      */           }
 					/*  905 */           count++;
 				/*      */         } 
-				/*  907 */         if (count < 36) {
-					/*  908 */           JOptionPane.showMessageDialog(null, "HomeMainGui: Credentials can not be found.");
-				/*      */         }
+			
 			/*  910 */       } catch (IOException e) {
 				/*      */         
 				/*  912 */         e.printStackTrace();
@@ -929,7 +884,7 @@ import org.json.simple.parser.JSONParser;
 			/*      */       } 
 		/*      */     } 
 		/*      */     
-		/*  930 */     return allData;
+		/*  930 */     return null;
 	/*      */   }
 	/*      */ 
 	/*      */ 
