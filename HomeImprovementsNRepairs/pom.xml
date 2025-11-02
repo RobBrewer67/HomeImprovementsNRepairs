@@ -7,6 +7,22 @@
   <name>HomeImprovementsNRepairs Application</name>
   <description>This Apps keeps cost records for home improvement and repairs</description>
 	<dependencies>
+	
+	<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1.1</version>
+   </dependency>
+	
+		
+	<!-- https://mvnrepository.com/artifact/javax.json/javax.json-api -->
+	<dependency>
+	    <groupId>javax.json</groupId>
+	    <artifactId>javax.json-api</artifactId>
+	    <version>1.1.4</version>
+	</dependency>
+		
+		
 	<!--  https://mvnrepository.com/artifact/com.jgoodies/jgoodies-forms  -->
 	<dependency>
 	<groupId>com.jgoodies</groupId>

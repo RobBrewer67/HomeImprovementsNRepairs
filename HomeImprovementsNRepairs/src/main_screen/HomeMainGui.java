@@ -27,6 +27,7 @@
 /*      */ import java.util.Date;
 /*      */ import java.util.Iterator;
 /*      */ import java.util.List;
+
 /*      */ import javax.sound.sampled.AudioInputStream;
 /*      */ import javax.sound.sampled.AudioSystem;
 /*      */ import javax.sound.sampled.Clip;
@@ -36,10 +37,12 @@
 /*      */ import javax.swing.JMenuBar;
 /*      */ import javax.swing.JMenuItem;
 /*      */ import javax.swing.JOptionPane;
-/*      */ import mydatabase.MySQLConnect;
-/*      */ import org.json.simple.JSONArray;
-/*      */ import org.json.simple.JSONObject;
+
+import org.jfree.data.json.impl.JSONArray;
+import org.jfree.data.json.impl.JSONObject;
 /*      */ import org.json.simple.parser.JSONParser;
+
+/*      */ import mydatabase.MySQLConnect;
 /*      */ 
 /*      */ 
 /*      */ 
@@ -314,7 +317,7 @@
 			/*      */           
 			/*      */           public void actionPerformed(ActionEvent e)
 			/*      */           {
-				/*  317 */             if (!HomeMainGui.databaseStatus.booleanValue()) {
+				/*  317 */             if (!HomeMainGui.getDatabaseStatus()) {
 					/*  318 */               String message = "No Database Connected. File is not Uploaded to Database";
 					/*  319 */               JOptionPane.showMessageDialog(null, message, "Input Error", 0);
 					/*      */               
@@ -326,13 +329,13 @@
 					/*      */                   
 					/*      */                   public void run()
 					/*      */                   {
-						/*  329 */                     if (HomeMainGui.null.access$0(HomeMainGui.null.this).refreshDatabase()) {
+						/*  329 */                     if (refreshDatabase()) {
 							/*  330 */                       JOptionPane.showMessageDialog(null, "MYSQL database updated");
 						/*      */                     } else {
 							/*  332 */                       JOptionPane.showMessageDialog(null, "ERROR:::MYSQL database was not updated");
 						/*      */                     } 
 					/*      */                   }
-				/*  335 */                 }"Database Thread");
+				/*  335 */                 }, "Database Thread");
 				/*      */             
 				/*  337 */             System.out.println(String.valueOf(databaseThread.getName()) + " has statrted");
 				/*  338 */             databaseThread.start();
@@ -465,26 +468,30 @@
 	/*      */ 
 	/*      */ 
 	/*      */   
-	/*      */   public boolean createJSONFile(List<HomeData> data) {
-		/*  469 */     if (data.size() == 0) {
-			/*  470 */       return false;
-		/*      */     }
-		/*      */     try {
-			/*  473 */       Exception exception2, exception1 = null;
-			/*      */ 
-			/*      */ 
-			/*      */ 
-			/*      */ 
-			/*      */ 
-			/*      */ 
-			/*      */ 
-			/*      */     
-		/*      */     }
-		/*  483 */     catch (IOException e) {
-			/*      */       
-			/*  485 */       e.printStackTrace();
-		/*      */     } 
-		/*  487 */     return true;
+	/*      */   
+	
+	
+	public boolean createJSONFile(List<HomeData> data) {
+		if(data.size() ==0){
+			return false;
+		}
+		//Creates a json file with HomeData data
+		try (FileWriter file = new FileWriter("homeData.json")) {
+			file.write("{ \n" );
+			String str = " \"homeData\" ";
+			file.write(str + ":[ \n") ;
+			for(int i = 0; i < data.size(); i++) {
+				ObjectMapper Obj = new ObjectMapper();
+				String jsonStr = Obj.writeValueAsString(data.get(i));
+				file.write(jsonStr + "\n");
+			}
+			file.write("] \n"  + " }");
+		} catch (IOException e) {
+			// TODO Auto-generated catch bljock
+			e.printStackTrace();
+		}	
+		return true;
+	
 	/*      */   }
 	/*      */ 
 	/*      */ 
