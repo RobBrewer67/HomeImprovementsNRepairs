@@ -63,53 +63,13 @@ public class MySQLConnect {
 	}
 
 	
-	public Boolean isConnected() {
-		
-		    // Database credentials
-		    final String URL = "jdbc:mysql://localhost:3306/home_improvement.houseexpenses";
-		   final String USER = "rbrewer";
-		   final String PASSWORD = "Great2BeAliveN2022#";
-
-		        Connection connection = null;
-
-		        try {
-		            // Load MySQL JDBC driver (optional for newer Java versions)
-		            Class.forName("com.mysql.cj.jdbc.Driver");
-
-		            // Establish connection
-		            connection = DriverManager.getConnection(URL, USER, PASSWORD);
-		            System.out.println("✅ Connection successful!");
-		            return true;
-
-		        } catch (ClassNotFoundException e) {
-		            System.out.println("❌ MySQL JDBC Driver not found!");
-		            e.printStackTrace();
-
-		        } catch (SQLException e) {
-		            System.out.println("❌ Database connection failed!");
-		            e.printStackTrace();
-
-		        } finally {
-		            // Close connection
-		            if (connection != null) {
-		                try {
-		                    connection.close();
-		                    System.out.println("🔒 Connection closed.");
-		                } catch (SQLException e) {
-		                    e.printStackTrace();
-		                }
-		            }
-		        }
-		        return false;
-		
-	}
 	
 	
-	public Boolean isConnectedA()  {
+	public Boolean isConnected()  {
 
-		String url = "jdbc:mysql://localhost:3306/home_improvement.houseexpenses";
-        String userid = "rbrewer";
-        String password = "Great2BeAliveN2022#";
+		//String url = "jdbc:mysql://localhost:3306/home_improvement.houseexpenses";
+        //String userid = "rbrewer";
+        //String password = "Great2BeAliveN2022#";
 
 		//Open a connection
 		Connection conn = null;

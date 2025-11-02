@@ -42,6 +42,7 @@ import org.jfree.data.json.impl.JSONArray;
 import org.jfree.data.json.impl.JSONObject;
 import org.json.simple.parser.JSONParser;
 
+import mycharts.MyBarChart;
 import mydatabase.MySQLConnect;
 
 /*      */ public class HomeMainGui
@@ -346,8 +347,8 @@ import mydatabase.MySQLConnect;
 		/*  379 */     this.frame.pack();
 		/*  380 */     this.frame.setVisible(true);
 		/*  381 */     this.frame.setResizable(false);
-		/*      */     
-		/*  383 */     getMonthlyExpensesFromDatabase(getDatabaseStatus());
+		/*      */     displayMarlinExpensesBarChart();
+		/*  383 */     //getMonthlyExpensesFromDatabase(getDatabaseStatus());
 		/*  384 */     displayMarlinExpensesBarChart();
 	/*      */   }
 	/*      */ 
@@ -669,7 +670,7 @@ import mydatabase.MySQLConnect;
 	/*      */ 
 	/*      */   
 	/*      */   private void displayMarlinExpensesBarChart() {
-		/*  701 */     String query = "SELECT * FROM  houseexpenses";
+		/*  701 */     String query = "SELECT * FROM  home_improvement.houseexpenses";
 		/*  702 */     this.mySQLDatabase.getQuery(query);
 		/*  703 */     List<HomeData> myList = this.mySQLDatabase.getList();
 		/*      */ 
@@ -699,7 +700,7 @@ import mydatabase.MySQLConnect;
 		/*  728 */     List<HomeData> list2025 = getListForYear(myList, 2025);
 		/*  729 */     getMonthlyTotalForTheYear(monthlyTotals, list2025, 5);
 		/*      */ 
-		/*      */     
+		/*      */     new MyBarChart("Marlin's Monthly Expenses", monthlyTotals);
 		/*  732 */     this.mySQLDatabase.clearList();
 	/*      */   }
 	/*      */ 
