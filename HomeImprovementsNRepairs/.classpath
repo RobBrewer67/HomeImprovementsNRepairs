@@ -17,5 +17,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/robertbrewer/Java_JarFiles/javax.json-api-1.0-javadoc/javax.json-api-1.0-javadoc.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

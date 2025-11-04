@@ -66,11 +66,6 @@ public class MySQLConnect {
 	
 	
 	public Boolean isConnected()  {
-
-		//String url = "jdbc:mysql://localhost:3306/home_improvement.houseexpenses";
-        //String userid = "rbrewer";
-        //String password = "Great2BeAliveN2022#";
-
 		//Open a connection
 		Connection conn = null;
 		//System.out.println("Connecting to a selected database...");

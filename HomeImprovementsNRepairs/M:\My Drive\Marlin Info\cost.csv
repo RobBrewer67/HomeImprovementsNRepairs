@@ -1,0 +1,565 @@
+DATE,AREA,ITEMS,COST,RECEIPT FILE NAME,INFO,VALUE ADDED
+2025-10-12,BACKYARD,PLANTS,11.9,filename,vegetables,false
+2025-10-11,BACKYARD,PLANTS,10.74,filename,soil,false
+2025-10-11,BACKYARD,PLANTS,4.83,filename,raindrip parts,false
+2025-10-06,BACKYARD,PLANTS,12.83,filename,soil,false
+2025-10-06,BACKYARD,PLANTS,4.97,C:\Receipts,4.97,false
+2025-10-06,BACKYARD,MISC,79.79,filename,auger rental,false
+2025-10-02,LIVING ROOM,MISC,30.2,filename,floor cleaner,false
+2025-09-27,GARAGE,LIGHTS,9.03,filename,house number sign,false
+2025-09-25,FRONTYARD,LIGHTS,13.95,filename,xmas light. mosquito coil,false
+2025-09-12,FRONTYARD,PLANTS,17.18,filename,soil,false
+2025-09-12,FRONTYARD,PLANTS,20.48,filename,aster,false
+2025-08-18,FRONTYARD,PLANTS,33.89,filename,daisy,false
+2025-08-17,LIVING ROOM,MISC,179.0,C:\Receipts\ClarkNRush081424_YearlyMaintenance.pdf,Annual HVAC Maintenace,false
+2025-08-17,LIVING ROOM,OUTLETS,25.99,C:\Receipts\Kasa_Smart_Plug_08172025.pdf,4 pack smart plugs,false
+2025-08-14,LIVING ROOM,MISC,13.79,C:\Receipts\Display Base_08142025.pdf,Rotating Display Base for picture cube,false
+2025-08-13,BATH2,MISC,4.23,filename,velcro tape,false
+2025-08-12,FRONTYARD,MISC,22.4,filename,raindrip pvc,false
+2025-08-05,GARAGE,MISC,11.68,filename,storage box,false
+2025-07-28,BACKYARD,ANTENNA,1.0,filename,play,false
+2025-07-19,KITCHEN,LIGHTS,4.83,filename,hood light,false
+2025-07-17,BATH1,TOILET,18.99,C:\Receipts\Toilet Paper Stand - Black _07142025.pdf,Black toilet paper stand,false
+2025-07-16,BACKYARD,MISC,21.01,filename,trellis,false
+2025-07-02,GARAGE,LIGHTS,1.75,filename,wall plate,false
+2025-06-30,FRONTYARD,MISC,14.85,filename,flag bracket,false
+2025-06-30,BACKYARD,MISC,34.17,filename,house corner repair,false
+2025-06-24,KITCHEN,FLOOR,33.09,filename,floor trim,false
+2025-06-23,FRONTYARD,MISC,11.79,filename,wasp trap,false
+2025-06-13,FRONTYARD,PLANTS,9.0,filename,lantana,false
+2025-06-02,FRONTYARD,PLANTS,14.0,filename,soil,false
+2025-05-24,HALLWAY,DOOR,10.72,filename,front door repair,false
+2025-05-16,BACKYARD,GUTTERS,31.56,filename,gutter down spout repair,false
+2025-05-08,BACKYARD,PLANTS,37.75,filename,veggies,false
+2025-05-02,FRONTYARD,PLANTS,45.69,filename,shut off valve,false
+2025-04-27,LIVING ROOM,FAN,96.94,C:\Receipts\2025_04_05&08&16&27_misc.jpg,New ceil fan/light for living room,false
+2025-04-16,BACKYARD,MISC,27.98,C:\Receipts\2025_04_05&08&16&27_misc.jpg,mulch for garden,false
+2025-04-08,BATH1,SHOWER/TUB,6.98,C:\Receipts\2025_04_05&08&16&27_misc.jpg,solutions to fix tub drain,false
+2025-04-05,BATH2,SHOWER/TUB,14.71,C:\Receipts\2025_04_05&08&16&27_misc.jpg,bonding solution for shower drain,false
+2025-03-25,BACKYARD,MISC,2.89,filename,parts for sprinkler line,false
+2025-03-25,FRONTYARD,PLANTS,17.14,filename,two african dasies,false
+2025-03-25,FRONTYARD,MISC,8.88,C:\Receipts\2025_03_23&25_garden.jpg,irrigation pvc,false
+2025-03-22,FRONTYARD,MISC,6.18,C:\Receipts\2025_03_22&24_garden.jpg,irrigaton/sprinkler parts,false
+2025-03-22,ATTIC,MISC,37.12,C:\Receipts\2025_03_22&24_garden.jpg,wood to fix attic and ant traps,false
+2025-03-22,ATTIC,MISC,21.57,filename,anchors for attic entry,false
+2025-03-15,BATH2,MISC,7.83,C:\Receipts\2025_03_15 shower_drain.jpg,shower drain,false
+2025-03-08,FRONTYARD,PLANTS,10.5,C:\Receipts\2025_02_09.jpg,Parts to replace sprinkler valve,false
+2025-03-07,FRONTYARD,PLANTS,5.89,C:\Receipts\2025_02_09.jpg,Parts for sprinkler valve replacement,false
+2025-03-06,FRONTYARD,PLANTS,30.55,C:\Receipts\2025_03_06_sprinklerValve.pdf,Sprinker valve,false
+2025-02-24,BACKYARD,FENCE,7.52,C:\Receipts\2025_02_09.jpg,Trellis for Carolina Jasmine,false
+2025-02-09,BACKYARD,FENCE,20.43,C:\Receipts\2025_02_09.jpg,Trellis for Lilac,false
+2025-01-05,KITCHEN,MISC,18.31,C:\Receipts\2025_01_05 fryer_Pan.jpg,fryer pan,false
+2024-11-24,BACKYARD,GUTTERS,7.31,C:\Receipts\2024_11_17 downspout.jpg,caulking material for backyard downspout,false
+2024-11-17,BACKYARD,GUTTERS,10.49,C:\Receipts\2024_11_17 downspout.jpg,inal downspout for backyard gutter,false
+2024-10-16,LIVING ROOM,MISC,44.27,C:\Receipts\2024_10_08_filters.pdf,16X25X2 filters ( 4-pack) for HVAC sysytem,false
+2024-10-03,BACKYARD,MISC,16.98,filename,,false
+2024-10-03,LIVING ROOM,FLOOR,12.97,filename,tile cleaner,false
+2024-09-22,KITCHEN,MISC,1283.72,filename,refrigerator,false
+2024-09-22,FRONTYARD,PLANTS,30.09,filename,soil,false
+2024-09-22,BACKYARD,PLANTS,11.9,filename,Vegetable 6-pack,false
+2024-09-22,BACKYARD,PLANTS,23.64,filename,,false
+2024-09-20,KITCHEN,OUTLETS,10.0,filename,kitchen outlet,false
+2024-09-18,LIVING ROOM,PLANTS,22.28,filename,houseplant soil and fertilizer,false
+2024-09-10,FRONTYARD,PLANTS,9.64,filename,lantana,false
+2024-09-02,FRONTYARD,MISC,22.57,filename,wasp trap,false
+2024-08-11,FRONTYARD,MISC,18.24,C:\Receipts\2024_08_11 solenoid.jpg,solenoid for siphon valve irrigation,false
+2024-08-11,FRONTYARD,MISC,3.95,filename,bushing housing for solenoid and siphon valve,false
+2024-08-05,FRONTYARD,MISC,5.74,C:\Receipts\2024_0805_stakes.jpg,Stakes for drip system,false
+2024-08-04,FRONTYARD,MISC,6.92,filename,4 GPH drips,false
+2024-08-04,FRONTYARD,MISC,14.87,filename,drippers,false
+2024-08-03,FRONTYARD,MISC,24.36,filename,bark,false
+2024-07-31,LIVING ROOM,MISC,179.0,C:\Receipts\ClarkNRush073124.pdf,Clark and Rush 2024 HVAC service,false
+2024-07-22,KITCHEN,FRIG,370.68,C:\Receipts\refrig_invoice1_10288.pdf,Replaced fan in Kitchenaide refrigerator,false
+2024-06-27,FRONTYARD,MISC,7.51,filename,wasp spray,false
+2024-06-24,KITCHEN,MISC,13.96,filename,floor cleaner,false
+2024-06-24,FRONTYARD,MISC,16.13,filename,wasp trap,false
+2024-06-05,KITCHEN,MISC,15.06,filename,mop,false
+2024-06-02,BATH1,WINDOWS,3.24,filename,window screen,false
+2024-05-31,FRONTYARD,MISC,10.74,filename,weed killer,false
+2024-05-31,BATH1,WINDOWS,19.13,filename,window screen,false
+2024-05-30,FRONTYARD,MISC,22.9,filename,pest control,false
+2024-05-23,LIVING ROOM,PLANTS,40.4,filename,houseplants,false
+2024-05-21,FRONTYARD,PLANTS,48.49,filename,lavender,false
+2024-05-21,BACKYARD,PLANTS,22.09,filename,fertilizer,false
+2024-05-20,KITCHEN,MISC,30.98,filename,garbage bags,false
+2024-05-18,BACKYARD,MISC,15.05,filename,pet odor eliminator,false
+2024-05-04,LIVING ROOM,MISC,13.78,filename,HVAC filters,false
+2024-05-04,LIVING ROOM,MISC,13.96,filename,ac filter,false
+2024-05-03,FRONTYARD,PLANTS,11.32,C:\Receipts\2024_04_20 gloves.jpg,6 pack flowers,false
+2024-05-03,KITCHEN,FRIG,38.78,filename,Water filters,false
+2024-05-01,BACKYARD,PLANTS,9.34,filename,tomato plant,false
+2024-04-26,BACKYARD,PLANTS,22.6,C:\Receipts\2024_04_20 gloves.jpg,soil,false
+2024-04-25,BACKYARD,MISC,26.37,filename,weed killer,false
+2024-04-21,FRONTYARD,MISC,16.9,filename,Flower pot for daisy,false
+2024-04-20,GARAGE,MISC,39.19,filename,ant bait,false
+2024-04-14,GARAGE,LIGHTS,29.08,filename,Etetale Solar Address Sign,false
+2024-04-11,BACKYARD,PLANTS,29.95,filename,veggies,false
+2024-04-10,FRONTYARD,PLANTS,13.47,filename,hydro,false
+2024-04-10,FRONTYARD,MISC,4.27,filename,soil,false
+2024-04-09,FRONTYARD,MISC,27.97,filename,black rock,false
+2024-03-21,FRONTYARD,MISC,13.34,filename,black pavers,false
+2024-03-16,FRONTYARD,MISC,110.98,C:\Receipts\2024_03_16 rocks.jpg,rocks,false
+2024-03-13,FRONTYARD,PLANTS,10.76,C:\Receipts\2024_03_13 lawn convert.jpg,mulch black,false
+2024-03-12,FRONTYARD,MISC,478.41,C:\Receipts\2024_03_12 rocks.jpg,rocks,false
+2024-03-11,LIVING ROOM,PLANTS,9.63,filename,soil,false
+2024-03-09,FRONTYARD,MISC,7.97,C:\Receipts\2024_03_13 lawn convert.jpg,drip system,false
+2024-03-08,FRONTYARD,MISC,8.14,C:\Receipts\2024_03_13 lawn convert.jpg,drip system,false
+2024-03-07,FRONTYARD,PLANTS,26.94,C:\Receipts\2024_03_07 plants.jpg,plants,false
+2024-03-07,FRONTYARD,MISC,1.06,C:\Receipts\2024_03_13 lawn convert.jpg,drip system,false
+2024-03-07,FRONTYARD,MISC,58.85,C:\Receipts\2024_03_13 lawn convert.jpg,drip system,false
+2024-03-06,FRONTYARD,MISC,30.7,C:\Receipts\2024_03_07 plants.jpg,tarp,false
+2024-03-06,FRONTYARD,MISC,44.09,C:\Receipts\2024_03_07 plants.jpg,pvc pipe,false
+2024-03-05,FRONTYARD,PLANTS,17.13,C:\Receipts\2024_03_07 plants.jpg,,false
+2024-03-05,FRONTYARD,MISC,17.22,filename,stapes,false
+2024-02-25,FRONTYARD,MISC,126.58,C:\Receipts\2024_02_25 sod cutter.jpg,sod cutter rental,false
+2024-02-24,BACKYARD,PLANTS,14.55,C:\Receipts\2024_02_05 toilet rep.jpg,jasmine,false
+2024-02-11,BACKYARD,MISC,21.53,filename,,false
+2024-02-06,BATH1,TOILET,4.48,filename,gasket,false
+2024-02-05,BATH1,TOILET,104.04,C:\Receipts\2024_02_05 toilet rep.jpg,new toilet,false
+2024-01-28,BACKYARD,MISC,10.74,filename,soil,false
+2023-12-27,LIVING ROOM,PLANTS,7.51,filename,potting mix,false
+2023-12-24,LIVING ROOM,FLOOR,7.51,filename,floor scrub,false
+2023-12-23,LIVING ROOM,PLANTS,12.98,C:\Receipts\2023_12_5 smoke.jpg,house plant,false
+2023-12-05,BDRM1,MISC,18.19,C:\Receipts\2023_12_5 smoke.jpg,smoke alarm,false
+2023-12-03,GARAGE,MISC,1.49,filename,,false
+2023-11-28,FRONTYARD,OUTLETS,4.28,C:\Receipts\2023_11_05 ladder.jpg,xmas extension,false
+2023-11-21,FRONTYARD,MISC,32.78,C:\Receipts\2023_11_05 ladder.jpg,xmas decor,false
+2023-11-05,FRONTYARD,MISC,75.3,C:\Receipts\2023_11_05 ladder.jpg,8 ft ladder,false
+2023-10-28,GARAGE,OUTLETS,7.27,C:\Receipts\2023_11_05 ladder.jpg,,false
+2023-10-26,BACKYARD,PLANTS,16.1,C:\Receipts\2023_10_27 plants.jpg,bulbs,false
+2023-10-24,BACKYARD,MISC,49.45,C:\Receipts\2023_10_27 plants.jpg,dog spray soil,false
+2023-10-23,BACKYARD,PLANTS,5.95,C:\Receipts\2023_10_27 plants.jpg,lantana,false
+2023-10-19,LIVING ROOM,PLANTS,21.51,filename,indoor plants,false
+2023-09-24,HALLWAY,MISC,8.49,filename,first aid kit,false
+2023-09-16,FRONTYARD,PLANTS,17.85,C:\Receipts\2023_10_27 plants.jpg,,false
+2023-09-12,LIVING ROOM,PLANTS,20.43,C:\Receipts\2023_08_30 plants.jpg,,false
+2023-09-12,BDRM2,MISC,4.29,C:\Receipts\2023_08_30 plants.jpg,spray bottle,false
+2023-09-02,BACKYARD,MISC,21.93,C:\Receipts\2023_08_30 plants.jpg,wood,false
+2023-08-30,BATH2,TOILET,238.0,filename,bidet and ext cord from Amazon,false
+2023-08-30,BDRM2,MISC,12.12,C:\Receipts\2023_08_30 plants.jpg,new hose for toilet,false
+2023-08-28,BACKYARD,PLANTS,20.36,C:\Receipts\2023_08+25 Toilet.jpg,,false
+2023-08-28,BACKYARD,PLANTS,15.03,C:\Receipts\2023_08+25 Toilet.jpg,,false
+2023-08-27,FRONTYARD,PLANTS,3.18,C:\Receipts\2023_08+25 Toilet.jpg,,false
+2023-08-25,BATH2,MISC,101.29,C:\Receipts\2023_08+25 Toilet.jpg,toilet,false
+2023-08-09,LIVING ROOM,MISC,13.44,filename,sweeper,false
+2023-08-08,FRONTYARD,PLANTS,20.31,C:\Receipts\2023_08+25 Toilet.jpg,,false
+2023-07-14,BACKYARD,MISC,5.68,C:\Receipts\2023_07_10 Canna.jpg,,false
+2023-07-10,BACKYARD,PLANTS,9.68,C:\Receipts\2023_07_10 Canna.jpg,,false
+2023-07-06,BACKYARD,PLANTS,30.71,filename,canna lily,false
+2023-06-29,BACKYARD,MISC,30.54,C:\Receipts\2023_06_29 Pet Odor.jpg,odor remover,false
+2023-06-28,KITCHEN,MISC,30.31,filename,camera for Gigi,false
+2023-06-28,KITCHEN,MISC,13.38,filename,2 64g card for Gigi camera,false
+2023-06-27,BACKYARD,MISC,40.86,C:\Receipts\2023_06_29 Pet Odor.jpg,mulch and garden hose,false
+2023-06-26,BACKYARD,PLANTS,18.0,C:\Receipts\2023_06_29 Pet Odor.jpg,cactus soil,false
+2023-06-25,BDRM3,WINDOWS,96.94,C:\Receipts\2023_06_29 Pet Odor.jpg,window tinting 3,false
+2023-06-22,FRONTYARD,PLANTS,10.24,C:\Receipts\2023_06_29 Pet Odor.jpg,plant,false
+2023-06-19,BACKYARD,MISC,10.09,filename,bolt for fence gate,false
+2023-06-11,BACKYARD,MISC,133.36,C:\Receipts\2023_06_07 cord sleeve.jpg,artificial grass for dog,false
+2023-06-11,FRONTYARD,MISC,50.6,filename,smart sprinkler controller,false
+2023-06-08,LIVING ROOM,OUTLETS,4.53,C:\Receipts\2023_06_07 cord sleeve.jpg,cord sleeve,false
+2023-06-08,BACKYARD,PLANTS,20.45,C:\Receipts\2023_06_07 cord sleeve.jpg,,false
+2023-06-07,LIVING ROOM,OUTLETS,13.57,C:\Receipts\2023_06_07 cord sleeve.jpg,cord sleeves,false
+2023-06-05,BACKYARD,MISC,15.58,C:\Receipts\2023_06_07 cord sleeve.jpg,concrete patch for outer corner wall,false
+2023-06-05,LIVING ROOM,MISC,12.22,filename,,false
+2023-06-04,BDRM3,MISC,54.46,C:\Receipts\2023_06_01 water wand.jpg,repairs and paint for bedroom wall,false
+2023-06-03,FRONTYARD,PLANTS,9.7,C:\Receipts\2023_06_01 water wand.jpg,,false
+2023-05-31,BDRM3,PLANTS,19.39,filename,,false
+2023-05-31,FRONTYARD,MISC,64.64,filename,solar camera,false
+2023-05-31,FRONTYARD,MISC,12.92,filename,128G SD card for solar camera,false
+2023-05-29,FRONTYARD,PLANTS,13.99,C:\Receipts\2023_06_01 water wand.jpg,water wand,false
+2023-05-28,LIVING ROOM,MISC,46.03,C:\Receipts\2023_05_28 Plants.jpg,drain cleaner,false
+2023-05-27,FRONTYARD,PLANTS,13.99,C:\Receipts\2023_05_28 Plants.jpg,plants for pots,false
+2023-05-27,BACKYARD,MISC,64.64,filename,solar camera,false
+2023-05-27,BACKYARD,MISC,12.92,filename,128g SD card for solar camera,false
+2023-05-26,BACKYARD,PLANTS,15.8,C:\Receipts\2023_05_28 Plants.jpg,potted plants,false
+2023-05-25,BACKYARD,MISC,36.49,C:\Receipts\2023_05_28 Plants.jpg,fence springs,false
+2023-05-23,FRONTYARD,MISC,17.24,C:\Receipts\2023_05_28 Plants.jpg,mulch,false
+2023-05-20,BATH1,SINK,33.22,filename,faucet,false
+2023-05-10,BACKYARD,PLANTS,2.44,C:\Receipts\2023_04_30 Tomato.jpg,,false
+2023-05-10,ROOF,MISC,32.28,C:\Receipts\2023_05_10 AC & Dog Enc.jpg,roof shingles and glue,false
+2023-05-10,FRONTYARD,PLANTS,57.65,C:\Receipts\2023_05_10 AC & Dog Enc.jpg,soil,false
+2023-05-09,BACKYARD,MISC,33.45,C:\Receipts\2023_05_10 AC & Dog Enc.jpg,gravel,false
+2023-05-07,BATH1,MISC,15.99,filename,curtains,false
+2023-05-04,BACKYARD,MISC,26.85,C:\Receipts\2023_05_10 AC & Dog Enc.jpg,screws and air cleaner,false
+2023-05-03,BACKYARD,MISC,72.64,C:\Receipts\2023_05_10 AC & Dog Enc.jpg,wood structure for AC and dog,false
+2023-05-03,FRONTYARD,PLANTS,10.2,C:\Receipts\2023_05_10 AC & Dog Enc.jpg,lawn grass seeds,false
+2023-05-03,BATH1,MISC,15.99,filename,curtains,false
+2023-04-30,FRONTYARD,MISC,28.47,C:\Receipts\2023_04_30 Tomato.jpg,black mulch,false
+2023-04-30,BACKYARD,MISC,10.75,filename,weed digger tool,false
+2023-04-28,BACKYARD,PLANTS,27.55,C:\Receipts\2023_04_30 Tomato.jpg,annual herb and vegies,false
+2023-04-06,LIVING ROOM,PLANTS,18.26,filename,indoor plants,false
+2023-04-04,GARAGE,MISC,60.62,C:\Receipts\2023_03_19 Paint.jpg,handtruck,false
+2023-03-29,FRONTYARD,PLANTS,21.47,C:\Receipts\2023_03_19 Paint.jpg,flowers,false
+2023-03-19,BACKYARD,MISC,41.51,C:\Receipts\2023_03_19 Paint.jpg,paint exterior,false
+2023-03-18,BACKYARD,FENCE,114.05,C:\Receipts\2023_03_18 lattice.jpg,lattace,false
+2023-03-18,BACKYARD,FENCE,18.17,C:\Receipts\2023_03_18 lattice.jpg,nails and seeds,false
+2023-03-18,FRONTYARD,PLANTS,3.52,C:\Receipts\2023_03_18 lattice.jpg,top soil,false
+2023-03-17,BACKYARD,FENCE,13.96,C:\Receipts\2023_03_18 lattice.jpg,13.96,false
+2023-03-13,BACKYARD,MISC,15.39,C:\Receipts\2023_03_13 const screws.jpg,connector screww,false
+2023-03-11,BACKYARD,MISC,23.6,C:\Receipts\2023_03_13 const screws.jpg,brackets for fence posts,false
+2023-03-08,FRONTYARD,PLANTS,24.75,C:\Receipts\2023_03_13 const screws.jpg,lawn fertilizer,false
+2023-03-08,BACKYARD,MISC,38.34,C:\Receipts\2023_03_13 const screws.jpg,outside wall paint,false
+2023-03-07,FRONTYARD,MISC,5.37,C:\Receipts\2023_03_13 const screws.jpg,bucket for concrete,false
+2023-03-07,FRONTYARD,MISC,18.26,C:\Receipts\2023_03_13 const screws.jpg,gloves,false
+2023-03-07,LIVING ROOM,MISC,10486.0,filename,HVAC replacement by Clarke and Rush,false
+2023-03-06,FRONTYARD,MISC,10.09,C:\Receipts\2023_02_17 lumber.jpg,cement,false
+2023-03-03,BACKYARD,MISC,66.81,filename,auger rental,false
+2023-03-02,BACKYARD,PLANTS,23.17,C:\Receipts\2023_02_17 lumber.jpg,Iris,false
+2023-03-01,FRONTYARD,MISC,7.08,C:\Receipts\2023_02_17 lumber.jpg,drippers,false
+2023-02-17,BACKYARD,FENCE,46.57,C:\Receipts\2023_02_17 lumber.jpg,lumber for dog fence,false
+2023-02-08,KITCHEN,OUTLETS,1.81,C:\Receipts\2023_01_25 DAP concrete.jpg,kitchen wall plate,false
+2023-02-04,BACKYARD,MISC,21.49,C:\Receipts\2023_01_25 DAP concrete.jpg,hardware for pergola,false
+2023-02-01,KITCHEN,OUTLETS,28.53,C:\Receipts\2023_01_25 DAP concrete.jpg,replace kitchen outlet microwave,false
+2023-01-31,FRONTYARD,PLANTS,4.92,C:\Receipts\2023_01_25 DAP concrete.jpg,soil for front yard,false
+2023-01-31,BACKYARD,MISC,104.95,C:\Receipts\2023_01_25 DAP concrete.jpg,roof tops for pergola,false
+2023-01-26,BACKYARD,MISC,16.12,C:\Receipts\2023_01_25 DAP concrete.jpg,concrete for outside walls,false
+2023-01-25,BACKYARD,MISC,24.18,C:\Receipts\2023_01_25 DAP concrete.jpg,liquid cement for outside walls,false
+2023-01-21,KITCHEN,WALLS,27.42,C:\Receipts\2023_01_10 kitchen.jpg,snip for tiles,false
+2023-01-20,KITCHEN,WALLS,70.0,filename,Amazon backsplash tiles,false
+2023-01-17,KITCHEN,MISC,71.01,C:\Receipts\2023_01_10 kitchen.jpg,kitchen cabinet,false
+2023-01-13,KITCHEN,MISC,63.36,C:\Receipts\2023_01_10 kitchen.jpg,kitchen cabinets,false
+2023-01-12,KITCHEN,MISC,79.53,C:\Receipts\2023_01_10 kitchen.jpg,kitchen cabinets,false
+2023-01-10,KITCHEN,MISC,32.48,C:\Receipts\2023_01_10 kitchen.jpg,cabinet door handles,false
+2023-01-08,KITCHEN,MISC,43.01,C:\Receipts\2023_01_08 cabinets.jpg,wood molding,false
+2023-01-08,KITCHEN,MISC,43.56,C:\Receipts\2023_01_08 cabinets.jpg,paint,false
+2023-01-05,KITCHEN,MISC,40.84,C:\Receipts\2023_01_08 cabinets.jpg,door knobs,false
+2023-01-05,LIVING ROOM,MISC,56.74,filename,Air Filters for HVAC system,false
+2023-01-04,BATH1,DOOR,72.03,filename,Black door knobs for right side of house,false
+2023-01-02,KITCHEN,MISC,24.53,C:\Receipts\2023_01_08 cabinets.jpg,adhesive,false
+2022-12-31,LIVING ROOM,FLOOR,17.72,filename,floor care,false
+2022-12-30,KITCHEN,CLOSET,15.57,filename,longer bolts,false
+2022-12-29,KITCHEN,MISC,46.27,C:\Receipts\2022_11_23 xmas.jpg,kitchen cabinet resurface,false
+2022-12-29,BATH2,TOILET,15.07,filename,Blue cover for toilet tank,false
+2022-12-24,LIVING ROOM,MISC,22.76,filename,Couch covers,false
+2022-12-20,LIVING ROOM,FLOOR,140.0,filename,floor scrubber and scrub pads,false
+2022-12-20,BDRM3,MISC,34.47,filename,3 pack light switch for Luis office,false
+2022-12-20,LIVING ROOM,OUTLETS,10.7,filename,Light switech or recptable cover plate(black),false
+2022-12-20,LIVING ROOM,LIGHTS,10.99,filename,ENERLITES Toggle Light Switch Wall Plate,false
+2022-12-18,KITCHEN,MISC,19.71,C:\Receipts\2022_11_23 xmas.jpg,kitchen cabinet resurface,false
+2022-12-17,GARAGE,MISC,31.48,C:\Receipts\2022_11_23 xmas.jpg,pest control,false
+2022-12-15,LIVING ROOM,LIGHTS,10.99,filename,ENERLITES Toggle Light Switch Wall Plate,false
+2022-12-12,LIVING ROOM,OUTLETS,5.99,filename,ENERLITES Double Duplex Wall Plate,false
+2022-12-12,LIVING ROOM,OUTLETS,5.99,filename,ENERLITES Double Duplex Wall Plate,false
+2022-12-12,LIVING ROOM,OUTLETS,7.58,filename,ENERLITES Double Duplex Wall Plate,false
+2022-12-09,BACKYARD,MISC,32.26,C:\Receipts\2022_11_23 xmas.jpg,staple gun,false
+2022-12-07,BATH2,OUTLETS,14.99,filename,Blue Marble Light Switch Cover-Single,false
+2022-12-07,BATH1,OUTLETS,13.99,filename,White Marble Light Switch Cover--Double,false
+2022-12-07,BATH1,OUTLETS,13.99,filename,White Marble Light Switch Cover--Single,false
+2022-12-05,BATH2,OUTLETS,16.99,filename,Blue Marble Light Switch Cover,false
+2022-12-05,FRONTYARD,PLANTS,53.88,C:\Receipts\2022_11_17 Sewer.jpg,maple tree,false
+2022-12-04,LIVING ROOM,MISC,16.11,C:\Receipts\2022_11_17 Sewer.jpg,indoor potting mix,false
+2022-11-29,BATH1,LGHTS,22.77,filename,smart switches for both bathrooms,false
+2022-11-25,FRONTYARD,LIGHTS,19.38,filename,extra battery for ring doorbell & camera,false
+2022-11-23,FRONTYARD,OUTLETS,20.0,C:\Receipts\2022_11_23 xmas.jpg,outdoor extension,false
+2022-11-17,BATH1,SINK,12.09,filename,black towel holder ring,false
+2022-11-12,BATH1,TOILET,8.33,filename,toilet paper holder,false
+2022-11-03,FRONTYARD,MISC,252.87,filename,Christmas tree outdoors,false
+2022-10-26,FRONTYARD,LIGHTS,15.4,filename,lights for front door outside light,false
+2022-10-25,LIVING ROOM,MISC,89.5,filename,yearly heater inspection,false
+2022-10-25,BATH1,LIGHTS,23.36,filename,black vanity light fisture,false
+2022-10-23,FRONTYARD,MISC,37.71,C:\Receipts\2022_10_23 Spinners.jpg,wind spinner,false
+2022-10-21,BACKYARD,MISC,50.0,filename,patio pergola cover,false
+2022-10-20,BATH2,TOILET,15.79,C:\Receipts\2022_10_23 Spinners.jpg,,false
+2022-10-20,FRONTYARD,GUTTERS,25.0,filename,Rain chain for gutter from Amazon,false
+2022-10-17,FRONTYARD,LIGHTS,18.0,filename,front garage,false
+2022-10-16,BACKYARD,MISC,12.92,C:\Receipts\2022_10_23 Spinners.jpg,wood for grape trellis,false
+2022-10-14,LIVING ROOM,MISC,16.27,filename,wifi extender,false
+2022-10-13,GARAGE,LIGHTS,19.33,filename,smart bulb for garage outside garage lights,false
+2022-10-09,BACKYARD,PLANTS,6.47,C:\Receipts\2022_10_23 Spinners.jpg,canna lily plant,false
+2022-10-08,BACKYARD,MISC,74.49,C:\Receipts\2022_10_08 ext cord.jpg,grill cover,false
+2022-10-05,ROOF,GUTTERS,39.5,C:\Receipts\2022_10_08 ext cord.jpg,,false
+2022-09-23,GARAGE,MISC,27.87,filename,wrokbench light,false
+2022-09-11,FRONTYARD,PLANTS,8.04,C:\Receipts\2022_10_08 ext cord.jpg,,false
+2022-09-11,BACKYARD,PLANTS,20.38,C:\Receipts\2022_10_08 ext cord.jpg,,false
+2022-09-08,BACKYARD,MISC,50.79,filename,cloth dry rack,false
+2022-09-04,FRONTYARD,MISC,40.0,filename,rain barrel,false
+2022-08-28,FRONTYARD,MISC,9.14,C:\Receipts\2022-08_14 yard.jpg,rain drip coupler,false
+2022-08-28,FRONTYARD,MISC,2.74,filename,rain drip coupler,false
+2022-08-27,FRONTYARD,MISC,53.28,C:\Receipts\2022-08_14 yard.jpg,tarp,false
+2022-08-27,FRONTYARD,MISC,21.6,filename,mulch 6 bags,false
+2022-08-14,FRONTYARD,MISC,24.17,C:\Receipts\2022-08_14 yard.jpg,pots,false
+2022-07-23,BACKYARD,MISC,16.1,C:\Receipts\2022_07_15 Hose.jpg,buckets,false
+2022-07-19,FRONTYARD,MISC,35.54,C:\Receipts\2022_07_15 Hose.jpg,garden hose,false
+2022-07-15,FRONTYARD,PLANTS,23.72,C:\Receipts\2022_07_15 Hose.jpg,,false
+2022-07-07,BACKYARD,MISC,6.93,C:\Receipts\2022_07_04 raindrip.jpg,,false
+2022-07-04,BACKYARD,MISC,8.52,C:\Receipts\2022_07_04 raindrip.jpg,,false
+2022-06-30,BACKYARD,MISC,12.62,C:\Receipts\2022_07_04 raindrip.jpg,,false
+2022-06-26,BACKYARD,MISC,16.77,C:\Receipts\2022_06_20 rain drip.jpg,,false
+2022-06-25,BACKYARD,MISC,61.39,C:\Receipts\2022_06_20 rain drip.jpg,rain drip system for backyard,false
+2022-06-21,FRONTYARD,MISC,10.73,C:\Receipts\2022_06_20 rain drip.jpg,,false
+2022-06-20,FRONTYARD,MISC,16.67,C:\Receipts\2022_06_20 rain drip.jpg,fertilizer,false
+2022-06-16,BATH2,SINK,87.23,C:\Receipts\2022_6_19 Bath fixture.jpg,replacement sink vanity fixture,false
+2022-06-15,BATH2,MISC,9.0,C:\Receipts\2022_6_19 Bath fixture.jpg,toilet sink valve,false
+2022-06-12,BDRM3,WALLS,9.0,C:\Receipts\2022_6_19 Bath fixture.jpg,wall finishing nails,false
+2022-06-11,BACKYARD,MISC,10.01,C:\Receipts\2022_6_19 Bath fixture.jpg,,false
+2022-06-05,BACKYARD,FENCE,33.44,C:\Receipts\2022_06_08 Fence gate hardware.jpg,fence gate hardware,false
+2022-06-04,BACKYARD,FENCE,54.05,C:\Receipts\2022_06_04 Fenc Gate.jpg,redwood panels for fence,false
+2022-06-04,BACKYARD,MISC,27.44,C:\Receipts\2022_06_08 Fence gate hardware.jpg,Mulch,false
+2022-05-28,BACKYARD,PLANTS,8.53,C:\Receipts\2022_05_15 grass.jpg,plant,false
+2022-05-28,FRONTYARD,MISC,23.92,C:\Receipts\2022_06_08 Fence gate hardware.jpg,twin pack rotor with nozzle,false
+2022-05-26,BACKYARD,PLANTS,16.23,C:\Receipts\2022_05_15 grass.jpg,indoor plant,false
+2022-05-24,FRONTYARD,PLANTS,26.94,C:\Receipts\2022_05_15 grass.jpg,jasmine,false
+2022-05-22,BACKYARD,PLANTS,14.98,C:\Receipts\2022_05_15 grass.jpg,daisy,false
+2022-05-20,GARAGE,DOOR,5.14,C:\Receipts\2022_05_15 grass.jpg,push pin,false
+2022-05-15,BACKYARD,PLANTS,23.66,C:\Receipts\2022_05_15 new hose.jpg,lantana,false
+2022-05-15,FRONTYARD,PLANTS,19.36,C:\Receipts\2022_05_15 grass.jpg,turf builder,false
+2022-05-14,BACKYARD,MISC,61.34,C:\Receipts\2022_05_15 new hose.jpg,new garden hose,false
+2022-05-11,BACKYARD,MISC,19.3,C:\Receipts\2022_05_15 new hose.jpg,hooks,false
+2022-05-09,FRONTYARD,DOOR,72.25,C:\Receipts\2022_05_15 new hose.jpg,Paint for front door,false
+2022-05-07,BACKYARD,MISC,290.0,filename,garden tool shed,false
+2022-05-04,BACKYARD,MISC,7.51,filename,mosquito repellant,false
+2022-05-03,BACKYARD,MISC,23.82,C:\Receipts\2022_05_01 Plants.jpg,planter box,false
+2022-05-02,BACKYARD,OUTLETS,10.0,C:\Receipts\2022_05_01 Plants.jpg,backyard outlet cover,false
+2022-05-02,FRONTYARD,PLANTS,14.99,C:\Receipts\2022_05_01 Plants.jpg,grass seeds,false
+2022-05-01,BACKYARD,PLANTS,12.68,C:\Receipts\2022_05_01 Plants.jpg,succulent,false
+2022-04-30,FRONTYARD,MISC,77.57,filename,Lawn trimmer,false
+2022-04-30,BACKYARD,PLANTS,8.53,C:\Receipts\2022_05_01 Plants.jpg,soil,false
+2022-04-30,BACKYARD,PLANTS,26.67,C:\Receipts\2022_05_01 Plants.jpg,veggies,false
+2022-04-29,BACKYARD,MISC,8.34,C:\Receipts\2022_05_01 Plants.jpg,solar shade,false
+2022-04-27,FRONTYARD,MISC,99.98,filename,Lawn edger,false
+2022-04-27,LIVING ROOM,MISC,56.0,filename,Air conditioner service,false
+2022-04-26,BACKYARD,MISC,29.52,C:\Receipts\2022_04_28 Planter boxes.jpg,wood,false
+2022-04-24,BACKYARD,MISC,29.86,C:\Receipts\2022_04_28 Planter boxes.jpg,planter box,false
+2022-04-23,BACKYARD,MISC,21.52,C:\Receipts\2022_04_28 Planter boxes.jpg,fir for planter boxes,false
+2022-04-17,BACKYARD,MISC,25.0,C:\Receipts\2022_04_28 Planter boxes.jpg,garden tool,false
+2022-04-16,BACKYARD,PLANTS,10.67,C:\Receipts\2022_04_28 Planter boxes.jpg,soil,false
+2022-04-15,BACKYARD,PLANTS,27.55,C:\Receipts\2022_04_10 soil.jpg,plants,false
+2022-04-15,BACKYARD,MISC,62.18,C:\Receipts\2022_04_10 soil.jpg,semi gloss paint,false
+2022-04-13,BACKYARD,MISC,20.62,C:\Receipts\2022_04_10 soil.jpg,ant trap,false
+2022-04-12,BACKYARD,PLANTS,28.52,C:\Receipts\2022_04_10 soil.jpg,mulch,false
+2022-04-11,KITCHEN,MISC,51.99,filename,water filter,false
+2022-04-10,BACKYARD,MISC,18.24,C:\Receipts\20220410 Pergola.jpg,fasteners,false
+2022-04-10,BACKYARD,MISC,13.0,C:\Receipts\20220410 Pergola.jpg,concrete drill bit,false
+2022-04-10,BACKYARD,MISC,29.92,C:\Receipts\20220410 Pergola.jpg,soli and wood,false
+2022-04-10,GARAGE,MISC,2.46,filename,bucket lid,false
+2022-04-05,BACKYARD,MISC,28.93,C:\Receipts\20220410 Pergola.jpg,fasteners for pergola,false
+2022-04-03,FRONTYARD,PLANTS,12.9,C:\Receipts\20220410 Pergola.jpg,grass,false
+2022-03-31,BACKYARD,MISC,31.5,C:\Receipts\20220410 Pergola.jpg,pergola hardware,false
+2022-03-24,FRONTYARD,MISC,6.43,C:\Receipts\2022_03_23 Red Tip.jpg,drippers,false
+2022-03-23,GARAGE,OUTLETS,5.25,C:\Receipts\2022_02_23 outlet.jpg,electrical plates,false
+2022-03-22,BACKYARD,MISC,64.48,C:\Receipts\2022_03_23 Red Tip.jpg,pergola paint,false
+2022-03-20,FRONTYARD,PLANTS,85.65,C:\Receipts\2022_03_23 Red Tip.jpg,red tip photinia,false
+2022-03-20,FRONTYARD,PLANTS,14.71,C:\Receipts\2022_03_23 Red Tip.jpg,soil,false
+2022-03-19,BACKYARD,MISC,49.0,C:\Receipts\2022_03_15 Pergola.jpg,pergola,false
+2022-03-16,BACKYARD,MISC,20.49,C:\Receipts\2022_03_15 Pergola.jpg,pergola,false
+2022-03-15,BACKYARD,MISC,12.47,C:\Receipts\2022_03_15 Pergola.jpg,pergola,false
+2022-03-13,BACKYARD,MISC,29.0,C:\Receipts\2022_03_13 Pergola.jpg,pergola,false
+2022-03-12,BACKYARD,MISC,53.81,C:\Receipts\2022_03_13 Pergola.jpg,pergola,false
+2022-03-05,GARAGE,OUTLETS,6.08,C:\Receipts\2022_02_23 outlet.jpg,,false
+2022-03-05,GARAGE,LIGHTS,92.19,C:\Receipts\2022_03_13 Pergola.jpg,electrical wire,false
+2022-03-05,BACKYARD,MISC,172.9,filename,woods for pergola,false
+2022-03-04,GARAGE,OUTLETS,4.58,C:\Receipts\2022_02_23 outlet.jpg,,false
+2022-03-01,FRONTYARD,LIGHTS,86.97,C:\Receipts\2022_02_23 outlet.jpg,front porch light,false
+2022-02-20,FRONTYARD,MISC,16.5,C:\Receipts\2022_02_20 plants.jpg,raindrip system emitters,false
+2022-02-20,FRONTYARD,PLANTS,30.97,C:\Receipts\2022_02_20 plants.jpg,flowering quince,false
+2022-02-19,FRONTYARD,PLANTS,72.7,C:\Receipts\2022_02_20 plants.jpg,sweet broom and indoor bird of P,false
+2022-02-19,FRONTYARD,PLANTS,51.17,C:\Receipts\2022_02_20 plants.jpg,Lavender and bark,false
+2022-02-13,FRONTYARD,PLANTS,20.27,C:\Receipts\2022_02_20 plants.jpg,bark,false
+2022-02-10,FRONTYARD,PLANTS,41.55,C:\Receipts\2022_02_10 Raindrip.jpg,raindrip system,false
+2022-02-10,FRONTYARD,MISC,7.55,C:\Receipts\2022_02_10 Raindrip.jpg,raindrip system front yard,false
+2022-02-10,FRONTYARD,MISC,296.31,C:\Receipts\2022_02_10 Rocks.jpg,rocks,false
+2022-02-07,FRONTYARD,MISC,50.44,C:\Receipts\2022_02_02 raindrip.jpg,tarp,false
+2022-02-07,FRONTYARD,MISC,13.9,C:\Receipts\2022_02_02 raindrip.jpg,sand and staples,false
+2022-02-05,FRONTYARD,PLANTS,34.44,C:\Receipts\2022_02_02 raindrip.jpg,trellis for roses,false
+2022-02-02,BACKYARD,LIGHTS,19.71,C:\Receipts\2022_02_02 raindrip.jpg,tools for power supply for lights,false
+2022-01-29,FRONTYARD,PLANTS,6.4,C:\Receipts\2022_01_29 Primrose.jpg,Primrose,false
+2022-01-20,FRONTYARD,MISC,14.23,C:\Receipts\2022_01_29 Primrose.jpg,rain drip system,false
+2022-01-20,FRONTYARD,PLANTS,1.7,C:\Receipts\2022_01_29 Primrose.jpg,soil,false
+2022-01-07,KITCHEN,MISC,865.0,filename,oven and range,false
+2021-12-28,ROOF,MISC,21.52,C:\Receipts\2021_10_26 strainer.jpg,insulation,false
+2021-12-23,BDRM2,MISC,21.52,filename,smoke alarm replacement,false
+2021-12-20,BDRM3,PLANTS,33.74,filename,,false
+2021-12-19,KITCHEN,LIGHTS,12.9,filename,LED light bulbs,false
+2021-12-19,KITCHEN,LIGHTS,102.33,filename,replace kitchen light,false
+2021-12-17,LIVING ROOM,FLOOR,65.81,filename,floor sewer cleaning pest control,false
+2021-12-11,KITCHEN,FAN,75.4,filename,dining area fan,false
+2021-12-04,FRONTYARD,MISC,18.61,filename,rain drip emitters,false
+2021-11-27,FRONTYARD,PLANTS,26.5,filename,red leaf plant,false
+2021-11-23,FRONTYARD,PLANTS,28.55,filename,plant red leaf,false
+2021-11-20,LIVING ROOM,MISC,30.12,filename,Xmas wreath,false
+2021-11-19,FRONTYARD,MISC,11.02,filename,rain drip emitters,false
+2021-11-18,FRONTYARD,MISC,12.27,filename,rain drip emitters,false
+2021-11-12,FRONTYARD,MISC,14.9,C:\Receipts\2021_11_01 Yard remodel.jpg,rain drip system,false
+2021-11-11,FRONTYARD,MISC,17.56,C:\Receipts\2021_11_01 Yard remodel.jpg,rain drip system,false
+2021-11-11,FRONTYARD,MISC,2.0,C:\Receipts\2021_11_01 Yard remodel.jpg,rain drip system,false
+2021-11-08,FRONTYARD,MISC,5.25,C:\Receipts\2021_11_01 Yard remodel.jpg,rain drip system,false
+2021-11-07,FRONTYARD,PLANTS,31.25,C:\Receipts\2021_11_01 Yard remodel.jpg,plants,false
+2021-11-04,FRONTYARD,PLANTS,10.9,C:\Receipts\2021_10_29 Deer.jpg,Tulips,false
+2021-11-04,FRONTYARD,PLANTS,57.57,C:\Receipts\2021_10_29 Deer.jpg,Bricks and plants,false
+2021-11-01,FRONTYARD,MISC,31.23,C:\Receipts\2021_10_29 Deer.jpg,Retaining walls,false
+2021-10-29,FRONTYARD,MISC,69.0,C:\Receipts\2021_10_29 Deer.jpg,Xmas d?cor,false
+2021-10-26,FRONTYARD,MISC,46.31,C:\Receipts\2021_10_26 strainer.jpg,cultivator,false
+2021-10-17,GARAGE,OUTLETS,46.24,C:\Receipts\2021_10_17 electrical.jpg,fish tape,false
+2021-10-16,KITCHEN,OUTLETS,15.0,filename,Kasa Smart Switch,false
+2021-10-16,GARAGE,OUTLETS,15.0,filename,Kasa Smart Switch,false
+2021-10-16,LIVING ROOM,LIGHTS,15.0,filename,2 Kasa Smart Bulb,false
+2021-10-16,FRONTYARD,OUTLETS,70.0,filename,Add power outlet outside front door,false
+2021-10-16,GARAGE,OUTLETS,5.2,C:\Receipts\2021_10_17 electrical.jpg,,false
+2021-10-15,GARAGE,OUTLETS,20.93,C:\Receipts\2021_10_17 electrical.jpg,,false
+2021-10-14,GARAGE,OUTLETS,22.14,C:\Receipts\2021_10_13 electrical .jpg,,false
+2021-10-13,GARAGE,OUTLETS,36.67,C:\Receipts\2021_10_13 electrical .jpg,outside outlet electrical,false
+2021-10-13,GARAGE,OUTLETS,41.34,C:\Receipts\2021_10_13 electrical .jpg,outside outlet electrical,false
+2021-09-26,BDRM2,PLANTS,40.35,C:\Receipts\2021_09_26 Indoor plants.jpg,indoor plants,false
+2021-09-25,LIVING ROOM,PLANTS,89.87,C:\Receipts\2021_09_26 Indoor plants.jpg,indoor plants,false
+2021-09-25,LIVING ROOM,PLANTS,55.92,C:\Receipts\2021_09_26 Indoor plants.jpg,indoor plants,false
+2021-09-11,BACKYARD,PLANTS,12.87,C:\Receipts\2021_09_04 Soil.jpg,,false
+2021-09-06,LIVING ROOM,MISC,20.0,C:\Receipts\2021_09_04 Soil.jpg,air filters,false
+2021-09-04,BACKYARD,PLANTS,15.02,C:\Receipts\2021_09_04 Soil.jpg,soil,false
+2021-09-04,BACKYARD,PLANTS,13.9,C:\Receipts\2021_09_26 Indoor plants.jpg,,false
+2021-08-28,BACKYARD,PLANTS,52.47,C:\Receipts\2021_08_28 Planter box.jpg,planter box #2,false
+2021-08-22,BACKYARD,PLANTS,26.27,C:\Receipts\2021_08_28 Planter box.jpg,wood for planter box #1,false
+2021-08-21,BACKYARD,MISC,19.37,C:\Receipts\2021_08_28 Planter box.jpg,cedar fan trellis for rose,false
+2021-08-17,BACKYARD,FENCE,34.39,C:\Receipts\2021_08_13 fence.jpg,screws,false
+2021-08-17,BACKYARD,FENCE,295.8,C:\Receipts\2021_08_17 fence.jpg,fence panels,false
+2021-08-16,BACKYARD,FENCE,92.44,C:\Receipts\2021_08_16 fence.jpg,fence panels,false
+2021-08-13,BACKYARD,FENCE,22.23,C:\Receipts\2021_08_13 fence.jpg,2 x 4 screws,false
+2021-08-12,BACKYARD,FENCE,21.2,C:\Receipts\2021_08_07 fence.jpg,2 x 4 studs bolts,false
+2021-08-12,BACKYARD,LIGHTS,32.13,C:\Receipts\2021_08_13 fence.jpg,solar pathway lights,false
+2021-08-11,BACKYARD,FENCE,13.59,C:\Receipts\2021_08_07 fence.jpg,screws & bolts,false
+2021-08-10,BACKYARD,FENCE,92.44,C:\Receipts\2021_08_10 fence.jpg,fence wood panels,false
+2021-08-08,BACKYARD,FENCE,13.02,C:\Receipts\2021_08_12 fence.jpg,concrete,false
+2021-08-08,BACKYARD,FENCE,35.91,C:\Receipts\2021_08_12 fence.jpg,2x4 wood studs concrete,false
+2021-08-07,BACKYARD,FENCE,26.83,C:\Receipts\2021_08_12 fence.jpg,concrete,false
+2021-08-07,BACKYARD,FENCE,50.0,C:\Receipts\2021_08_12 fence.jpg,fence posts upgraded to 8 feet,false
+2021-08-01,BACKYARD,FENCE,21.4,C:\Receipts\2021_07_31 fence.jpg,fence posts,false
+2021-07-30,BACKYARD,FENCE,77.9,C:\Receipts\2021_07_31 fence.jpg,2x4 hardware,false
+2021-07-29,LIVING ROOM,DOOR,19.55,C:\Receipts\2021_07_31 fence.jpg,,false
+2021-07-23,BACKYARD,MISC,11.11,C:\Receipts\2021_07_31 fence.jpg,wood for lilac,false
+2021-07-18,BACKYARD,MISC,42.69,C:\Receipts\2021_07_18 Knee pads.jpg,rain drippers -extension cord-chisel,false
+2021-07-18,BACKYARD,LIGHTS,10.85,C:\Receipts\2021_07_18 Knee pads.jpg,backyard solar light & flowers,false
+2021-07-09,BACKYARD,DOOR,8.59,C:\Receipts\2021_07_18 Knee pads.jpg,door mat,false
+2021-07-06,BDRM3,WINDOWS,91.35,C:\Receipts\The Home Depot - Order Confirmation.pdf,Outdoors roll up blinds,false
+2021-07-05,FRONTYARD,PLANTS,18.21,C:\Receipts\2021_07_02 Logs Wood.jpg,soil and support,false
+2021-07-03,FRONTYARD,MISC,75.27,C:\Receipts\2021_07_02 Logs Wood.jpg,decorative logs for front lawn edging,false
+2021-07-02,BACKYARD,MISC,31.35,C:\Receipts\2021_07_02 Logs Wood.jpg,planter box wood,false
+2021-06-13,BDRM3,DOOR,10.8,C:\Receipts\2021_06_13 door knob.jpg,door handle replacement,false
+2021-06-11,BACKYARD,PLANTS,34.33,C:\Receipts\2021_06_13 door knob.jpg,wood for planter box soil,false
+2021-05-31,BACKYARD,PLANTS,34.54,C:\Receipts\2021_05_31 Planter wood.jpg,soil & planter box,false
+2021-05-27,HALLWAY,DOOR,40.82,filename,door knobs,false
+2021-05-25,HALLWAY,DOOR,29.55,C:\Receipts\2021_05_31 Planter wood.jpg,door knobs - screws,false
+2021-05-23,BACKYARD,PLANTS,22.76,C:\Receipts\2021_05_23 Planter box.jpg,planter box,false
+2021-05-22,BACKYARD,PLANTS,18.67,C:\Receipts\2021_05_23 Planter box.jpg,veggies and soil,false
+2021-05-21,BACKYARD,MISC,12.0,C:\Receipts\2021_05_23 Planter box.jpg,planter stain,false
+2021-05-19,GARAGE,MISC,20.94,C:\Receipts\2021_05_19 retainer wall.jpg,work bench clamps,false
+2021-05-18,FRONTYARD,MISC,19.07,C:\Receipts\2021_05_19 retainer wall.jpg,,false
+2021-05-16,FRONTYARD,PLANTS,22.62,C:\Receipts\2021_05_16 Jasmine.jpg,pink jasmine - succulents,false
+2021-05-16,GARAGE,MISC,246.75,C:\Receipts\2021_05_16 Workbench.pdf,workbench,false
+2021-05-12,BACKYARD,MISC,5.77,C:\Receipts\2021_05_16 Jasmine.jpg,gazebo lights,false
+2021-05-08,BACKYARD,MISC,51.68,C:\Receipts\2021_05_07 yellow jacket.jpg,yard maintenance - insect pest control,false
+2021-05-06,FRONTYARD,PLANTS,30.13,C:\Receipts\2021_05_16 Jasmine.jpg,,false
+2021-05-02,BACKYARD,MISC,418.0,filename,Gazebo,false
+2021-05-01,BACKYARD,MISC,52.14,filename,drill for gazebo,false
+2021-05-01,BACKYARD,MISC,25.54,filename,anchor bolts for gazebo,false
+2021-04-29,FRONTYARD,MISC,32.0,C:\Receipts\2021_04_25 door knobs.jpg,scalloped edging,false
+2021-04-28,BACKYARD,PLANTS,18.8,C:\Receipts\2021_04_25 door knobs.jpg,,false
+2021-04-25,BATH1,SHOWER/TUB,45.0,C:\Receipts\2021_04_25 door knobs.jpg,shower fixture door knobs,false
+2021-04-24,FRONTYARD,PLANTS,15.6,C:\Receipts\2021_05_01 Drill.jpg,grass seeds,false
+2021-04-15,FRONTYARD,MISC,23.35,C:\Receipts\2021_04_15 concrete blocks.jpg,retainer wall blocks for Maple,false
+2021-04-11,FRONTYARD,PLANTS,25.18,C:\Receipts\2021_04_10 window screen.jpg,weed & feed,false
+2021-04-11,FRONTYARD,PLANTS,20.0,filename,Jpanese Maple,false
+2021-04-10,BDRM2,WINDOWS,24.46,C:\Receipts\2021_04_10 window screen.jpg,window screen for Bed #2,false
+2021-04-07,BACKYARD,MISC,48.47,C:\Receipts\2021_04_25 door knobs.jpg,garden hose storage,false
+2021-04-05,BACKYARD,PLANTS,13.95,C:\Receipts\2021_04_10 window screen.jpg,,false
+2021-04-03,FRONTYARD,PLANTS,45.79,C:\Receipts\2021_04_03 Carmelia.jpg,Camellia,false
+2021-03-31,BACKYARD,PLANTS,34.34,C:\Receipts\2021_03_31 Plants.jpg,plants  - soil - hose gun,false
+2021-03-29,BACKYARD,PLANTS,18.26,C:\Receipts\2021_04_03 Carmelia.jpg,pot and potting mix,false
+2021-03-28,BACKYARD,MISC,35.99,C:\Receipts\2021_03_31 Plants.jpg,roach trap,false
+2021-03-27,BACKYARD,PLANTS,12.99,C:\Receipts\2021_03_27 Flowers & seeds.pdf,boiganvillia - garden hose,false
+2021-03-27,FRONTYARD,PLANTS,19.62,C:\Receipts\2021_03_27 Flowers & seeds.pdf,grass seeds and bracket for seasonal flag,false
+2021-03-26,FRONTYARD,PLANTS,12.0,C:\Receipts\2021_03_25 Flowers & Bulbs.pdf,,false
+2021-03-26,BACKYARD,PLANTS,26.84,C:\Receipts\2021_03_25 Flowers & Bulbs.pdf,plants and pots,false
+2021-03-25,BACKYARD,PLANTS,250.0,filename,tree cutting,false
+2021-03-19,BACKYARD,PLANTS,32.98,C:\Receipts\2021_03_25 Flowers & Bulbs.pdf,,false
+2021-03-18,BACKYARD,MISC,10.75,C:\Receipts\2021_03_25 Flowers & Bulbs.pdf,brass hose fittings x 2,false
+2021-03-16,GARAGE,OUTLETS,4.21,C:\Receipts\2021_03_16 garage outlet.pdf,replace outlet by garage,false
+2021-03-16,GARAGE,OUTLETS,8.32,C:\Receipts\2021_03_16 garage outlet.pdf,,false
+2021-03-16,LIVING ROOM,DOOR,96.95,C:\Receipts\2021_03_16 garage outlet.pdf,patio door - screen door,false
+2021-03-15,BACKYARD,MISC,57.04,C:\Receipts\2021_03_15 backyard faucet.pdf,backyard water faucet junction,false
+2021-03-14,BACKYARD,PLANTS,4.27,C:\Receipts\2021_03_31 Plants.jpg,,false
+2021-03-13,BACKYARD,PLANTS,8.08,C:\Receipts\2021_03_15 backyard faucet.pdf,,false
+2021-03-09,FRONTYARD,PLANTS,5.0,C:\Receipts\2021_03_15 backyard faucet.pdf,,false
+2021-03-06,LIVING ROOM,DOOR,47.74,C:\Receipts\2021_03_06 patio door.pdf,patio door handle latch,false
+2021-03-02,FRONTYARD,PLANTS,19.42,C:\Receipts\2021_03_06 patio door.pdf,fescue grass seeds,false
+2021-02-28,BACKYARD,MISC,19.29,C:\Receipts\2021_03_06 patio door.pdf,mulch- plant ties,false
+2021-02-28,BACKYARD,MISC,11.45,C:\Receipts\2021_03_06 patio door.pdf,mulch for side yard,false
+2021-02-27,BACKYARD,MISC,34.66,C:\Receipts\2021_02_27 Plants.pdf,garden tool - BBQ cover,false
+2021-02-27,FRONTYARD,PLANTS,38.79,C:\Receipts\2021_02_27 Plants.pdf,jasmine & indoor plants,false
+2021-02-20,BACKYARD,MISC,50.64,C:\Receipts\2021_02_14 Ring contacts.pdf,propane tank,false
+2021-02-20,FRONTYARD,PLANTS,11.25,C:\Receipts\2021_02_14 Ring contacts.pdf,red mulch for front & back yards,false
+2021-02-13,FRONTYARD,PLANTS,28.36,C:\Receipts\2021_02_07 Grill.pdf,top soil for lawn,false
+2021-02-13,BACKYARD,PLANTS,21.45,C:\Receipts\2021_02_07 Grill.pdf,Lilac plant,false
+2021-02-13,FRONTYARD,PLANTS,86.95,C:\Receipts\2021_02_13 soil seed.pdf,lawn seeds - top soil,false
+2021-02-12,BACKYARD,PLANTS,12.89,filename,Plant food for rose bushes and shrubs,false
+2021-02-07,BACKYARD,MISC,192.75,C:\Receipts\2021_02_07 Grill.pdf,grill - rain drip valves,false
+2021-02-06,BACKYARD,MISC,8.36,C:\Receipts\2021_02_06 Irrigation.pdf,washers and swirel for garden hose & faucets,false
+2021-02-06,BACKYARD,MISC,3.02,C:\Receipts\2021_02_06 Irrigation.pdf,pvc pipe repair,false
+2021-02-01,BACKYARD,MISC,34.45,C:\Receipts\2021_02_01 Timer.pdf,Irrigation drip system timer,false
+2021-01-31,FRONTYARD,PLANTS,16.13,C:\Receipts\2021_02_01 Timer.pdf,weed killer,false
+2021-01-30,BACKYARD,LIGHTS,14.21,C:\Receipts\2021_01_30 gutter patio light.pdf,porch light,false
+2021-01-30,BACKYARD,PLANTS,9.0,C:\Receipts\2021_01_30 gutter patio light.pdf,drip irrigatiion valves,false
+2021-01-30,BACKYARD,PLANTS,12.0,filename,Bird of paradise,false
+2021-01-29,BDRM1,OUTLETS,4.87,C:\Receipts\2021_01_30 gutter patio light.pdf,electrical outlet insulation,false
+2021-01-26,FRONTYARD,GUTTERS,6.69,C:\Receipts\2021_01_30 gutter patio light.pdf,Gutter scoop,false
+2021-01-23,BACKYARD,MISC,25.25,C:\Receipts\2021_01_23 Mulch.pdf,mulch for backyard,false
+2021-01-23,BACKYARD,PLANTS,58.94,C:\Receipts\2021_01_23 Mulch.pdf,mulch & gardenia for backyard,false
+2021-01-23,BACKYARD,MISC,15.8,C:\Receipts\2021_01_23 Mulch.pdf,mulch for backyard,false
+2021-01-22,BACKYARD,PLANTS,61.57,C:\Receipts\2021_01_19  Plants weed.pdf,suculent plants and  landscape staples,false
+2021-01-21,BACKYARD,PLANTS,27.36,C:\Receipts\2021_01_20 Plants Mulch.pdf,plants and mulch,false
+2021-01-21,BACKYARD,MISC,19.0,C:\Receipts\2021_01_22 Plants.pdf,mulch for yard,false
+2021-01-21,BACKYARD,PLANTS,19.26,C:\Receipts\2021_01_22 Plants.pdf,grape vine and poppies,false
+2021-01-20,BACKYARD,PLANTS,64.7,C:\Receipts\2021_01_19  Plants weed.pdf,back yard plants and  soil,false
+2021-01-20,FRONTYARD,MISC,11.25,C:\Receipts\2021_01_20 Plants Mulch.pdf,Mulch red,false
+2021-01-19,FRONTYARD,MISC,12.9,C:\Receipts\2021_01_19  Plants weed.pdf,Round Up,false
+2021-01-17,FRONTYARD,PLANTS,16.98,C:\Receipts\2021_01_17 Raindrip & garden.pdf,weed & feed for front lawn,false
+2021-01-17,FRONTYARD,PLANTS,20.46,C:\Receipts\2021_01_17 Raindrip & garden.pdf,,false
+2021-01-17,BACKYARD,MISC,32.0,C:\Receipts\2021_01_17 Raindrip & garden.pdf,gardening tools,false
+2021-01-16,BACKYARD,OUTLETS,15.55,C:\Receipts\2021_01_16 Porch outlet box.pdf,patio wall outlet replacement,false
+2021-01-13,BACKYARD,PLANTS,19.58,C:\Receipts\2021_01-13 Mulch & flowers.pdf,seeds and mulch,false
+2021-01-13,BACKYARD,PLANTS,12.56,C:\Receipts\2021_01-13 Mulch & flowers.pdf,bulbs and flower seeds,false
+2021-01-11,BACKYARD,PLANTS,18.26,C:\Receipts\2021_01-13 Mulch & flowers.pdf,soil and lilies,false
+2021-01-10,ROOF,MISC,9.31,C:\Receipts\2022_01_09 bucket lids.jpg,downspout strainer,false
+2021-01-10,ROOF,MISC,19.33,C:\Receipts\2022_01_09 bucket lids.jpg,downspout extension,false
+2021-01-09,FRONTYARD,SEWAGE LINE,5.78,C:\Receipts\2021_01_09 Swerline drain cap.pdf,Sewer line drain cap and fitting,false
+2021-01-09,FRONTYARD,PLANTS,20.68,C:\Receipts\2022_01_09 bucket lids.jpg,soil and plants,false
+2021-01-08,FRONTYARD,SEWAGE LINE,17.47,C:\Receipts\2021_01_08 drain root kill.pdf,drain product to kill off roots in sewer line,false
+2021-01-08,FRONTYARD,PLANTS,18.25,C:\Receipts\2021_10_26 strainer.jpg,soil,false
+2021-01-06,BATH1,TOILET,9.12,C:\Receipts\filename.jpeg,Replaced toilet handle,false
+2021-01-06,BATH2,TOILET,9.12,C:\Receipts\filename.jpeg,Replaced toilet handle,false
+2021-01-03,FRONTYARD,PLANTS,11.0,C:\Receipts\2021_01_03 Plants for yard.pdf,Jasmine for FRONTYARD,false
+2021-01-03,BACKYARD,PLANTS,9.0,C:\Receipts\2021_01_03 Plants for yard.pdf,Lavender for backyard,false
+2021-01-03,BACKYARD,PLANTS,22.0,C:\Receipts\2021_01_03 Plants for yard.pdf,Rose & soli for backyard,false
+2020-12-31,FRONTYARD,MISC,36.0,filename,Plumber snake & drain grate,false
+2020-12-31,BATH2,TOILET,10.0,C:\Receipts\2021_01_03 Plants for yard.pdf,Flapper for toilet,false
+2020-12-31,FRONTYARD,SEWAGE LINE,145.0,C:\Receipts\2020_12_31 Plumber service.pdf,plumbing service to clear out clog,false
+2020-12-27,GARAGE,WINDOWS,18.0,filename,Blinds for garage window,false
+2020-12-22,FRONT ENTRY,MISC,20.0,filename,Floor mats,false
+2020-12-22,GARAGE,MISC,20.0,filename,Floor mats,false
+2020-12-04,FRONTYARD,MISC,35.65,C:\Receipts\2020_12_04 paint ring light.pdf,Waterpipe insulation,false
+2020-12-04,FRONTYARD,LIGHTS,97.0,C:\Receipts\2020_12_05 ring light.pdf,Ring flood light,false
+2020-12-01,GARAGE,MISC,50.0,C:\Receipts\2020_12_30 Amazon orders thru 12-31.pdf,Reciprocating saw,false
+2020-11-28,LIVING ROOM,FLOOR,81.0,filename,Rug for living room coffee table,false
+2020-11-28,KITCHEN,MISC,65.0,filename,Kitchen liners and kitchen garbage can,false
+2020-11-27,KITCHEN,MISC,20.0,filename,Fire extinguisher for kitchen and bedroom,false
+2020-11-27,BDRM3,MISC,20.0,filename,Fire extinguisher for kitchen and bedroom,false
+2020-11-27,KITCHEN,REFRIG,50.0,filename,Water filter for refrigerator,false
+2020-11-25,LIVING ROOM,CHIMNEY,248.0,C:\Receipts\2020_12_07 Wayfair.pdf,Fireplace screen door,false
+2020-11-22,GARAGE,SINK,105.0,C:\Receipts\2020_11_21 HD faucet dryer.pdf,Faucet hardware and dryer duct repairs,false
+2020-11-22,GARAGE,SINK,55.0,filename,Utility sink,false
+2020-11-21,GARAGE,MISC,40.0,filename,Torch kit and accessories,false
+2020-11-20,LIVING ROOM,TILE,87.0,filename,Tile cleaning for all rooms,false
+2020-11-18,BATH2,SHOWER/TUB,35.0,C:\Receipts\2020_12_30 Amazon orders thru 12-31.pdf,AquaSpa shower head,false
+2020-11-17,BDRM3,LIGHTS,25.0,C:\Receipts\2020_12_30 Amazon orders thru 12-31.pdf,Light fixture for room closet,false
+2020-11-14,BATH1,TOILET,22.0,C:\Receipts\2020_11_14 Home Depot toilet.pdf,Soldering iron,false
+2020-11-08,LIVING ROOM,MISC,25.0,filename,Paint tools for all rooms,false
+2020-11-08,FRONTYARD,MISC,25.0,filename,Garden hose & sprinkler,false
+2020-11-08,BATH2,MISC,25.0,C:\Receipts\2020_11_08 Paint & Supplies.pdf,Bathroom repairs,false
+2020-11-07,GARAGE,MISC,125.0,filename,Power drill plus drill bits,false
+2020-11-06,GARAGE,MISC,25.0,C:\Receipts\2020_11_10 Amazon orders thru 11-10.pdf,Garage door openers - remote,false
+2020-11-06,KITCHEN,DOORS,25.0,C:\Receipts\2020_11_10 Amazon orders thru 11-10.pdf,Entry door lock replacement,false
+2020-11-05,LIVING ROOM,DOORS,25.0,C:\Receipts\2020_11_10 Amazon orders thru 11-10.pdf,Entry door lock replacement,false
+2020-11-04,GARAGE,WASHER,592.0,filename,Samsung washer,false
+2020-11-04,GARAGE,DRYER,592.0,filename,Samsung dryer,false
+2020-11-04,KITCHEN,OVEN,40.0,C:\Receipts\2020_11_04 Oven gasket on eBay.pdf,GE oven gasket replacemnet,false
+2020-11-04,LIVING ROOM,MISC,295.0,C:\Receipts\2020_11_10 Amazon orders thru 11-10.pdf,Ring security alarm & Alexia for whole house,false
+2020-11-04,LIVING ROOM,DOORS,125.0,C:\Receipts\2020_11_10 Amazon orders thru 11-10.pdf,Ring video door bell,false
+2020-11-04,GARAGE,DOORS,25.0,C:\Receipts\2020_11_10 Amazon orders thru 11-10.pdf,Entry door lock replacement,false

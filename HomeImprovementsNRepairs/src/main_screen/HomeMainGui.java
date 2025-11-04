@@ -46,6 +46,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import mycharts.MyBarChart;
 import mydatabase.MySQLConnect;
+import query_screen.QueryingWindow;
 
 
 /*      */ public class HomeMainGui
@@ -216,7 +217,9 @@ import mydatabase.MySQLConnect;
 		/*      */     
 		/*  236 */     this.about.addActionListener(new ActionListener()
 				/*      */         {
-			/*      */           public void actionPerformed(ActionEvent e) {}
+			/*      */           public void actionPerformed(ActionEvent e) {
+				                 new About();
+			}
 		/*      */         });
 		/*      */ 
 		/*      */ 
@@ -230,9 +233,9 @@ import mydatabase.MySQLConnect;
 			/*      */           public void actionPerformed(ActionEvent e)
 			/*      */           {
 				/*  251 */             if (HomeMainGui.databaseStatus) {
-					/*  252 */               HomeMainGui.this.getMonthlyExpensesFromDatabase(Boolean.valueOf(true));
+					/*  252 */               getMonthlyExpensesFromDatabase(Boolean.valueOf(true));
 				/*      */             } else {
-					/*  254 */               HomeMainGui.this.getMonthlyExpensesFromFile(Boolean.valueOf(false));
+					/*  254 */             getMonthlyExpensesFromFile(Boolean.valueOf(false));
 				/*      */             } 
 			/*      */           }
 		/*      */         });
@@ -243,7 +246,7 @@ import mydatabase.MySQLConnect;
 			/*      */           public void actionPerformed(ActionEvent e)
 			/*      */           {
 				/*  264 */             if (HomeMainGui.databaseStatus) {
-					/*  265 */               HomeMainGui.this.downloadFromServerToFile();
+					/*  265 */             downloadFromServerToFile();
 				/*      */             }
 			/*      */           }
 		/*      */         });
@@ -262,8 +265,8 @@ import mydatabase.MySQLConnect;
 				/*      */             
 				/*  292 */             int result = JOptionPane.showConfirmDialog(frame1, theMessage, "alert", 0);
 				/*  293 */             if (result == 0) {
-					/*  294 */               HomeMainGui.this.downloadFromServerToFile();
-					/*  295 */               HomeMainGui.this.copyFileToGoogleDrive();
+					/*  294 */               downloadFromServerToFile();
+					/*  295 */               copyFileToGoogleDrive();
 					/*  296 */               System.exit(0);
 				/*      */             } 
 			/*      */           }
@@ -271,7 +274,9 @@ import mydatabase.MySQLConnect;
 		/*      */     
 		/*  301 */     this.queryWork.addActionListener(new ActionListener()
 				/*      */         {
-			/*      */           public void actionPerformed(ActionEvent e) {}
+			/*      */           public void actionPerformed(ActionEvent e) {
+				     new QueryingWindow("rbrewer",mySQLDatabase );
+			}
 		/*      */         });
 		/*      */ 
 		/*      */ 
